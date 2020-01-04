@@ -6,4 +6,4 @@
   Second, run the file convlstm.py to train and test the model.
   Finally, run the file evalution.py to evalute the result.
  
- 3 The demo code provide by the author: https://github.com/7fantasysz/MSCRED，but bad code, hard to read.
+ 3 The demo code provide by the author: https://github.com/7fantasysz/MSCRED. 
