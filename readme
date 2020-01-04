@@ -1,0 +1,9 @@
+1 It is an implement of paper by tensorflow：
+  A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data.
+  
+2 How to use:
+  First, run the file generation_signature_matrice.py to generate signature matrice.
+  Second, run the file convlstm.py to train and test the model.
+  Finally, run the file evalution.py to evalute the result.
+ 
+ 3 The demo code provide by the author: https://github.com/7fantasysz/MSCRED，but bad code, hard to read.
